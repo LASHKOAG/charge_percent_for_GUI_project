@@ -1,0 +1,1 @@
+# charge_percent_for_GUI_project
